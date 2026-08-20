@@ -128,3 +128,6 @@ node_modules/
 # Ignore IDEA files
 .idea/
 local.properties
+
+# Local APK reverse-engineering scratch space
+.reclub-analysis/
